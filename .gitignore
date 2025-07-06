@@ -1,3 +1,6 @@
 # This is a comment
 logs/
 *.log
+temp*
+private.txt
+config.txt
